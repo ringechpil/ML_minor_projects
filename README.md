@@ -1,4 +1,6 @@
-Some of the minor ML projects I was working on during my machine learning masterclass training and while taking some online courses. 
+Some of the minor ML projects I was working on during my machine learning masterclass training and while taking some online courses.
+
+**Car Sales:** Using artificial neural networ to precisely predict car prices. 
 
 **Ecommerce:** Using regression models to see whether it pays off more to invest into web sale or mobile app marketing. 
 
